@@ -9,5 +9,8 @@ As stated above, the main purpose is to provide simples examples for Git Trainin
 ##Deployment
 This is a simple web project, deployment can be on any web page
 
+##How to Contribute 
+I dunno i just started
+
 ##Copyright
 Copyright claim lol
