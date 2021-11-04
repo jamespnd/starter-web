@@ -13,4 +13,4 @@ This is a simple web project, deployment can be on any web page
 I dunno i just started
 
 ##Copyright
-Copyright claim lol
+Copyright claim lol, All rights reserved
