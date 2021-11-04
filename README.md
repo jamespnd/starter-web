@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This is a simple website project for showing how to use Git and Gith
+This is a simple website project for showing how to use Git and Gith. Another text
 
 ## Introduction
 This is example is to show different parts of Git repository andvarious commands using Web Project
